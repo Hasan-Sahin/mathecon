@@ -1,0 +1,2 @@
+# mathecon
+Matematiksel İktisat
